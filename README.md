@@ -1,2 +1,2 @@
 # Conductor
-Educational project(layout)
+Educational project
